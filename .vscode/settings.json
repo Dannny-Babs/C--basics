@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "stdio.h": "c"
+    },
+    "cSpell.words": [
+        "fahr",
+        "MCMXCXLIII",
+        "strlens"
+    ],
+    "C_Cpp.errorSquiggles": "disabled"
+}
