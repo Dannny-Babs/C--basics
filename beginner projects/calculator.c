@@ -23,7 +23,15 @@ float multiply(float a, float b)
 // divide function
 float divide(float a, float b)
 {
-    return a / b;
+    if (b==0)
+    {
+        printf("Division by zero is not possible, \t");
+        return 0;
+    }else{
+        return a / b;
+    }
+
+    
 }
 
 // main function
